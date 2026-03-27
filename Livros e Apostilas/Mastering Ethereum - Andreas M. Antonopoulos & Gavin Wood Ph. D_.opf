@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16952</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07576ba6-3bd4-42ed-ac60-8e401db968e7</dc:identifier>
+        <dc:title>Mastering Ethereum</dc:title>
+        <dc:creator opf:file-as="Antonopoulos, Andreas M. &amp; D., Gavin Wood Ph." opf:role="aut">Andreas M. Antonopoulos</dc:creator>
+        <dc:creator opf:file-as="Antonopoulos, Andreas M. &amp; D., Gavin Wood Ph." opf:role="aut">Gavin Wood Ph. D.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-13T05:00:00+00:00</dc:date>
+        <dc:description>If you're looking to get started with the Ethereum protocol--or are among the many open source developers, integrators, and system administrators already working with this platform--Mastering Ethereum is the definitive book on the topic. Authors Gavin Wood and Andreas Antonopoulos provide everything you need to know about building smart contracts and decentralized autonomous organizations on the Ethereum blockchain.</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2dc2aba4-7fba-400b-9412-46056295b893</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Blockchain</dc:subject>
+        <dc:subject>Ethereum</dc:subject>
+        <meta name="calibre:timestamp" content="2025-11-06T23:11:02+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Ethereum"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Mastering Ethereum - Andreas M. Antonopoulos &amp; Gavin Wood Ph. D_.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16954</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b20e843f-ff21-470f-a5d7-c11da061097d</dc:identifier>
+        <dc:title>Blockchain Technology Explained: The Ultimate Beginner’s Guide About Blockchain Wallet, Mining, Bitcoin, Ethereum, Litecoin, Zcash, Monero, Ripple, Dash, IOTA and Smart Contracts</dc:title>
+        <dc:creator opf:file-as="Norman, Alan T." opf:role="aut">Alan T. Norman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-12T08:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0785WDHS3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Blockchain</dc:subject>
+        <dc:subject>Ethereum</dc:subject>
+        <meta name="calibre:timestamp" content="2025-11-06T23:11:11+00:00"/>
+        <meta name="calibre:title_sort" content="Blockchain Technology Explained: The Ultimate Beginner’s Guide About Blockchain Wallet, Mining, Bitcoin, Ethereum, Litecoin, Zcash, Monero, Ripple, Dash, IOTA and Smart Contracts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Blockchain Technology Explained_ The Ultimate Beginner’s Guide About Blockchain Wallet, Mining, Bitcoin, Ethereum, Litecoin, Zcash, Monero, Ripple, Dash, IOTA and Smart Contracts - Alan T. Norman.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16947</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6539ae25-de96-4d58-9870-c475cd096780</dc:identifier>
+        <dc:title>Solidity Smart Contracts: Build Dapps in Ethereum Blockchain</dc:title>
+        <dc:creator opf:file-as="Stoilov, Rangel" opf:role="aut">Rangel Stoilov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-07T00:00:00+00:00</dc:date>
+        <dc:description>Learn Solidity And How To Create Smart Contracts With This Book!For the past couple of years, there hasn't been a bigger breakthrough in the IT world than the one that Blockchain technology has made. The extremely fast growth of the industry, market and the technology itself leads to an enormous shortage of programmers that truly understand the blockchain. Along with the blockchain, smart contracts have emerged and with them - Solidity.The idea of this book is to give you the easiest and best practices in becoming a blockchain developer. We will be focusing on the smart contracts development with Solidity in the Ethereum ecosystem.You will learn to create your first smart contracts in the Ethereum blockchain even if you are a complete beginner and you know nothing about programming or Solidity.I will show you the online IDE Remix to create your first smart contracts and we will go through all the features that Solidity provides us as a programming language.In this book you will learn the following:  We'll learn the essentials of the Ethereum blockchain. How to make and protect our wallets as well as mastering Metamask as our main Ethereum wallet in the creation of our smart contracts. We will go through the basic and advanced concepts of the Solidity language. We learn in depth how you can build your own smart contracts and test them out instantly in Remix. I will teach you how to use Metamask as your Ethereum wallet and I will give you security advice that will keep your crypto assets secure. You will have assignments that will help you out understand the material better with actual practice and not only passive consumption. After you finish this course you will fall in love with Solidity, Ethereum ecosystem and the smart contract's creation.</dc:description>
+        <dc:publisher>Unibul Press Ltd.</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07NJ96D9G</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">j8DawQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781796424829</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B07NJ96D9G</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">43904438</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Blockchain</dc:subject>
+        <dc:subject>Ethereum</dc:subject>
+        <dc:subject>Solidity</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-11-06T23:10:39+00:00"/>
+        <meta name="calibre:title_sort" content="Solidity Smart Contracts: Build Dapps in Ethereum Blockchain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Solidity Smart Contracts_ Build Dapps in Ethereum Blockchain - Rangel Stoilov.jpg"/>
+    </guide>
+</package>

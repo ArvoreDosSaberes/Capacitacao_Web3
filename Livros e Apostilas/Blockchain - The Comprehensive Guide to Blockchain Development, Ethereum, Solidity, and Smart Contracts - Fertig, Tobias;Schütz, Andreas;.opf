@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc4ea728-64ea-4e48-abe9-c80496a14cb3</dc:identifier>
+        <dc:title>Blockchain - The Comprehensive Guide to Blockchain Development, Ethereum, Solidity, and Smart Contracts</dc:title>
+        <dc:creator opf:file-as="Tobias Fertig, Andreas Schütz" opf:role="aut">Fertig, Tobias;Schütz, Andreas;</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-12-15T00:00:00+00:00</dc:date>
+        <dc:description>Demystify the blockchain—and learn how to use it—with this practical guide. Start from the ground up: What is Ethereum? What is Solidity? And how are they used to create smart contracts? Then see how to implement your own blockchain, including configuring a peer-to-peer network, managing miner accounts, and more. Follow step-by-step instructions and detailed code examples to develop smart contracts and dApps. Work with cutting-edge technologies such as Bitcoin, DeFi, NFTs, and more. Welcome to the world of blockchain!&lt;br/&gt;&lt;br/&gt;In this book, you’ll learn about:&lt;br/&gt;&lt;br/&gt;a.	Blockchain Basics  &lt;br/&gt;You’ve heard the hype around Bitcoin, NFTs, and crypto mining. But how does the underlying blockchain technology work? Understand the fundamentals of the distributed ledger, and learn how to create and manage your own blockchain.  &lt;br/&gt;&lt;br/&gt;b.	Application Development&lt;br/&gt;Master smart contracts, from programming with Solidity to testing, debugging, deployment, and beyond. Develop decentralized applications (dApps) and expand them into a decentralized autonomous organization (DAO) by implementing a frontend with ether.js.  &lt;br/&gt;&lt;br/&gt;c.	Tips from the Experts&lt;br/&gt;Follow guidance from experienced blockchain programmers. Use commented code examples as templates for your projects to get started building your own blockchain and smart contracts in the real world. &lt;br/&gt;&lt;br/&gt;Highlights include:&lt;br/&gt; &lt;br/&gt;1)	Blockchain basics and creation&lt;br/&gt;2)	Smart contracts and dApps&lt;br/&gt;3)	Development with Solidity &lt;br/&gt;4)	Testing, debugging, and security&lt;br/&gt;5)	Web APIs&lt;br/&gt;6)	Peer-to-peer frameworks&lt;br/&gt;7)	Accounts and balances&lt;br/&gt;8)	Transaction and block verification&lt;br/&gt;9)	Gas optimization&lt;br/&gt;10)	Decentralized finance (DeFi)&lt;br/&gt;11)	Non-fungible tokens (NFTs)&lt;br/&gt;12)	Yul and Huff contracts&lt;br/&gt;</dc:description>
+        <dc:publisher>Rheinwerk Publishing Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">31621684</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Use blockchain technology to develop applications!</dc:subject>
+        <meta name="calibre:timestamp" content="2026-01-24T10:07:20+00:00"/>
+        <meta name="calibre:title_sort" content="Blockchain - The Comprehensive Guide to Blockchain Development, Ethereum, Solidity, and Smart Contracts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Blockchain - The Comprehensive Guide to Blockchain Development, Ethereum, Solidity, and Smart Contracts - Fertig, Tobias;Schütz, Andreas;.jpg"/>
+    </guide>
+</package>

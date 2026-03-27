@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16953</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1c953ec-5e29-4600-ab7d-5d7ae6e7779a</dc:identifier>
+        <dc:title>Learn Ethereum: Build your own decentralized applications with Ethereum and smart contracts</dc:title>
+        <dc:creator opf:file-as="Wu, Xun &amp; Zou, Zhihong &amp; Song, Dongying" opf:role="aut">Xun (Brian) Wu</dc:creator>
+        <dc:creator opf:file-as="Wu, Xun &amp; Zou, Zhihong &amp; Song, Dongying" opf:role="aut">Zhihong Zou</dc:creator>
+        <dc:creator opf:file-as="Wu, Xun &amp; Zou, Zhihong &amp; Song, Dongying" opf:role="aut">Dongying Song</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-20T15:05:14+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Learn Ethereum is ideal for anyone who wants to quickly learn Ethereum blockchain technology and build end-to-end decentralized applications using smart contract and Ethereum. The hands-on examples will help novices learn quick, effective, and easy ways to master blockchain and Ethereum. Prior exposure to an object-oriented programming language such as JavaScript is expected but is not mandatory.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">23911ea4-70e6-426b-98db-b74de86f1c86</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781789954111</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Non-Fiction</dc:subject>
+        <dc:subject>Computer Science</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Guide</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Technology</dc:subject>
+        <dc:subject>Blockchain</dc:subject>
+        <dc:subject>Ethereum</dc:subject>
+        <meta name="calibre:timestamp" content="2025-11-06T23:11:06+00:00"/>
+        <meta name="calibre:title_sort" content="Learn Ethereum: Build your own decentralized applications with Ethereum and smart contracts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Learn Ethereum_ Build your own decentralized applications with Ethereum and smart contracts - Xun (Brian) Wu &amp; Zhihong Zou &amp; Dongying Song.jpg"/>
+    </guide>
+</package>

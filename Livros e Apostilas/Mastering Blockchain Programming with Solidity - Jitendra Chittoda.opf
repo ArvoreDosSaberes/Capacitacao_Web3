@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16956</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f073895-a34d-43c4-aff8-b7b87c875664</dc:identifier>
+        <dc:title>Mastering Blockchain Programming with Solidity</dc:title>
+        <dc:creator opf:file-as="Jitendra Chittoda" opf:role="aut">Jitendra Chittoda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-02T08:44:22+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Discover the advanced features of Solidity that will help you write high-quality code and develop secure smart contracts with the latest ERC standards&lt;/b&gt;&lt;/p&gt;Key Features&lt;li&gt;Delve into Solidity and understand control structures, function calls, and variable scopes&lt;/li&gt;&lt;li&gt;Explore tools for developing, testing, and debugging your blockchain applications&lt;/li&gt;&lt;li&gt;Learn advanced design patterns and best practices for writing secure smart contracts&lt;/li&gt;Book Description&lt;p&gt;Solidity is among the most popular and contract-oriented programming languages used for writing decentralized applications (DApps) on Ethereum blockchain. If you&amp;apos;re looking to perfect your skills in writing professional-grade smart contracts using Solidity, this book can help.&lt;/p&gt;&lt;p&gt;You will get started with a detailed introduction to blockchain, smart contracts, and Ethereum, while also gaining useful insights into the Solidity programming language. A dedicated section will then take you through...</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>COM000000 - COMPUTERS / General</dc:subject>
+        <dc:subject>COM082000 - COMPUTERS / Bioinformatics</dc:subject>
+        <dc:subject>COM006000 - COMPUTERS / Buyer</dc:subject>
+        <dc:subject>Blockchain</dc:subject>
+        <dc:subject>Ethereum</dc:subject>
+        <dc:subject>Solidity</dc:subject>
+        <meta name="calibre:timestamp" content="2025-11-06T23:11:18+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Blockchain Programming with Solidity"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Mastering Blockchain Programming with Solidity - Jitendra Chittoda.jpg"/>
+    </guide>
+</package>

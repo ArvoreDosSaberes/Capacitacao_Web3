@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16959</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77a03d2e-6844-44d0-94f0-204f346e19da</dc:identifier>
+        <dc:title>Mastering Blockchain</dc:title>
+        <dc:creator opf:file-as="Lorne Lantz" opf:role="aut">Lorne Lantz</dc:creator>
+        <dc:creator opf:file-as="Lorne Lantz" opf:role="aut">Daniel Cawrey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-19T03:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;The future will be increasingly distributed. As the publicity surrounding Bitcoin and blockchain has shown, distributed technology and business models are gaining popularity. Yet the disruptive potential of this technology is often obscured by hype and misconception. This detailed guide distills the complex, fast moving ideas behind blockchain into an easily digestible reference manual, showing what's really going on under the hood.&lt;/p&gt;&lt;p&gt;Finance and technology pros will learn how a blockchain works as they explore the evolution and current state of the technology, including the functions of cryptocurrencies and smart contracts. This book is for anyone evaluating whether to invest time in the cryptocurrency and blockchain industry. Go beyond buzzwords and see what the technology really has to offer.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Learn why Bitcoin was fundamentally important in blockchain's birth&lt;/li&gt;&lt;li&gt;Explore altcoin and alternative blockchain projects to understand what's possible&lt;/li&gt;&lt;li&gt;Understand the challenges of scaling and forking a blockchain&lt;/li&gt;&lt;li&gt;Learn what Ethereum and other blockchains offer&lt;/li&gt;&lt;li&gt;Examine emerging business uses for blockchain beyond cryptocurrency&lt;/li&gt;&lt;li&gt;Discover where the future lies in this exciting new technology&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492054702</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Blockchain</dc:subject>
+        <dc:subject>Ethereum</dc:subject>
+        <meta name="calibre:timestamp" content="2025-11-06T23:11:28+00:00"/>
+        <meta name="calibre:title_sort" content="Mastering Blockchain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Mastering Blockchain - Lorne Lantz &amp; Daniel Cawrey.jpg"/>
+    </guide>
+</package>

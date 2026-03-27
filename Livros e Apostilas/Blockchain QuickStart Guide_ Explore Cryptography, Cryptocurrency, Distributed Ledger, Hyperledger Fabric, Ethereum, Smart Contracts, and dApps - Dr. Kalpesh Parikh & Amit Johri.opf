@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61e8408e-4e52-4589-8e45-6c807299760e</dc:identifier>
+        <dc:title>Blockchain QuickStart Guide: Explore Cryptography, Cryptocurrency, Distributed Ledger, Hyperledger Fabric, Ethereum, Smart Contracts, and dApps</dc:title>
+        <dc:creator opf:file-as="Parikh, Dr. Kalpesh &amp; Johri, Amit" opf:role="aut">Dr. Kalpesh Parikh</dc:creator>
+        <dc:creator opf:file-as="Parikh, Dr. Kalpesh &amp; Johri, Amit" opf:role="aut">Amit Johri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-15T00:00:00+00:00</dc:date>
+        <dc:publisher>BPB Publications</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2026-01-24T10:06:34+00:00"/>
+        <meta name="calibre:title_sort" content="Blockchain QuickStart Guide: Explore Cryptography, Cryptocurrency, Distributed Ledger, Hyperledger Fabric, Ethereum, Smart Contracts, and dApps"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Blockchain QuickStart Guide_ Explore Cryptography, Cryptocurrency, Distributed Ledger, Hyperledger Fabric, Ethereum, Smart Contracts, and dApps - Dr. Kalpesh Parikh &amp; Amit Johri.jpg"/>
+    </guide>
+</package>

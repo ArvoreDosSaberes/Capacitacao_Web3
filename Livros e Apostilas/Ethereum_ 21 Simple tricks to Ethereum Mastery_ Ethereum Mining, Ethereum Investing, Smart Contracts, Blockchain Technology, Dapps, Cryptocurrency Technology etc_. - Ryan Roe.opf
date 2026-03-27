@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16949</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf19b66b-f7b5-4b4c-bae2-714bc3243865</dc:identifier>
+        <dc:title>Ethereum: 21 Simple tricks to Ethereum Mastery: Ethereum Mining, Ethereum Investing, Smart Contracts, Blockchain Technology, Dapps, Cryptocurrency Technology etc...</dc:title>
+        <dc:creator opf:file-as="Roe, Ryan" opf:role="aut">Ryan Roe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-28T08:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B078PCM3P3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Blockchain</dc:subject>
+        <dc:subject>Ethereum</dc:subject>
+        <meta name="calibre:timestamp" content="2025-11-06T23:10:51+00:00"/>
+        <meta name="calibre:title_sort" content="Ethereum: 21 Simple tricks to Ethereum Mastery: Ethereum Mining, Ethereum Investing, Smart Contracts, Blockchain Technology, Dapps, Cryptocurrency Technology etc..."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Ethereum_ 21 Simple tricks to Ethereum Mastery_ Ethereum Mining, Ethereum Investing, Smart Contracts, Blockchain Technology, Dapps, Cryptocurrency Technology etc_. - Ryan Roe.jpg"/>
+    </guide>
+</package>

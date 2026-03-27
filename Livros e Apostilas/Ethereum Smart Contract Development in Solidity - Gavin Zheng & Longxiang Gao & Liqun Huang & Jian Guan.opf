@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57bdb469-0953-457c-be3c-054db5df7817</dc:identifier>
+        <dc:title>Ethereum Smart Contract Development in Solidity</dc:title>
+        <dc:creator opf:file-as="Zheng, Gavin &amp; Gao, Longxiang &amp; Huang, Liqun &amp; Guan, Jian" opf:role="aut">Gavin Zheng</dc:creator>
+        <dc:creator opf:file-as="Zheng, Gavin &amp; Gao, Longxiang &amp; Huang, Liqun &amp; Guan, Jian" opf:role="aut">Longxiang Gao</dc:creator>
+        <dc:creator opf:file-as="Zheng, Gavin &amp; Gao, Longxiang &amp; Huang, Liqun &amp; Guan, Jian" opf:role="aut">Liqun Huang</dc:creator>
+        <dc:creator opf:file-as="Zheng, Gavin &amp; Gao, Longxiang &amp; Huang, Liqun &amp; Guan, Jian" opf:role="aut">Jian Guan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-22T10:13:18+00:00</dc:date>
+        <dc:language>pt</dc:language>
+        <meta name="calibre:timestamp" content="2026-01-24T10:07:23+00:00"/>
+        <meta name="calibre:title_sort" content="Ethereum Smart Contract Development in Solidity"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Ethereum Smart Contract Development in Solidity - Gavin Zheng &amp; Longxiang Gao &amp; Liqun Huang &amp; Jian Guan.jpg"/>
+    </guide>
+</package>

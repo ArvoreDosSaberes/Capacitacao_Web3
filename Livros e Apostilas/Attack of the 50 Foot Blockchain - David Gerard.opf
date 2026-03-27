@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9e264b2-bf70-4799-af99-d027a239d27d</dc:identifier>
+        <dc:title>Attack of the 50 Foot Blockchain</dc:title>
+        <dc:creator opf:file-as="Gerard, David" opf:role="aut">David Gerard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>bitcoin</dc:subject>
+        <dc:subject>Blockchain</dc:subject>
+        <dc:subject>smart contract</dc:subject>
+        <dc:subject>mark karpeles</dc:subject>
+        <dc:subject>bitfinex</dc:subject>
+        <dc:subject>mt. gox</dc:subject>
+        <dc:subject>pirateat40</dc:subject>
+        <dc:subject>singulardtv</dc:subject>
+        <dc:subject>Ethereum</dc:subject>
+        <dc:subject>ico</dc:subject>
+        <dc:subject>dogecoin</dc:subject>
+        <dc:subject>distributed ledger technology</dc:subject>
+        <dc:subject>satoshi</dc:subject>
+        <dc:subject>satoshi nakamoto</dc:subject>
+        <dc:subject>craig wright</dc:subject>
+        <dc:subject>imogen heap</dc:subject>
+        <dc:subject>berklee rethink</dc:subject>
+        <meta name="calibre:timestamp" content="2026-01-24T10:06:31+00:00"/>
+        <meta name="calibre:title_sort" content="Attack of the 50 Foot Blockchain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Attack of the 50 Foot Blockchain - David Gerard.jpg"/>
+    </guide>
+</package>

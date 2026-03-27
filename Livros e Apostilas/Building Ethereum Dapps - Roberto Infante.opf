@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f788fc04-022d-4f57-861e-55cab2c1a5ca</dc:identifier>
+        <dc:title>Building Ethereum Dapps</dc:title>
+        <dc:creator opf:file-as="Roberto Infante" opf:role="aut">Roberto Infante</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-21T06:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;span&gt;&lt;p&gt;&lt;i&gt;Building Ethereum Dapps&lt;/i&gt; teaches Dapps development on the Ethereum blockchain platform. You’ll begin with a mental model of how Dapps operate, and then dive into designing and implementing smart contracts in Ethereum’s Solidity language. You’ll explore Ethereum smart contract development tools, like Truffle and Web3, and pick up best practices for design and security. Practical exercises throughout give you valuable hands-on experience. &lt;/p&gt;&lt;/span&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781617295157</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ethereum</dc:subject>
+        <dc:subject>Blockchain</dc:subject>
+        <dc:subject>Solidity</dc:subject>
+        <meta name="calibre:timestamp" content="2025-10-29T12:13:09+00:00"/>
+        <meta name="calibre:title_sort" content="Building Ethereum Dapps"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="Building Ethereum Dapps - Roberto Infante.jpg"/>
+    </guide>
+</package>
