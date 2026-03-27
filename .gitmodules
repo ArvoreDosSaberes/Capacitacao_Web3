@@ -1,0 +1,3 @@
+[submodule "Elemental"]
+	path = Smartcontracts/Elemental
+	url = git@github.com:ArvoreDosSaberes/Capacitacao_Web3_SmartContracts_Elemental.git
